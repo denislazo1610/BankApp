@@ -5,7 +5,7 @@ to log in and know your personal information.
 I wanted to learn how to obtain data from the users. Trying to collect usernames and passwords. 
 
 
-[Code part]https://www.youtube.com/watch?v=nQ98XdlGwvg)
+[Code part](https://www.youtube.com/watch?v=nQ98XdlGwvg)
 [Using the app](https://www.youtube.com/watch?v=bbUgnPLfuLw)
 
 # Development Environment
